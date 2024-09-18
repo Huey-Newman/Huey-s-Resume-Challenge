@@ -19,3 +19,5 @@ Infrastructure as Code(I chose Terraform because it was agnostic)
 CI/CD (Back End)
 CI/CD (Front End
 
+![image](https://github.com/user-attachments/assets/2c98cb59-ee6b-426e-9624-0af30c168d09)
+
