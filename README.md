@@ -21,3 +21,8 @@ The Cloud Resume Challenge is a multiple-step resume project that helps build an
 
 ![image](https://github.com/user-attachments/assets/2c98cb59-ee6b-426e-9624-0af30c168d09)
 
+I've been working on my serverless website resume through terraform using IAM roles and policies, s3 buckets, cloudfront, ACM, cloudwatch, Route 53. lambda functions, Rest Api gateway and DynamoDB. The hit counter on the side on the orange strip at the bottom is powered by the Rest Api gateway, lambda, and dynamodb. I used cloudwatch and the third party Postman to mitigate my api and lambda errors through the cloudshell command line as shown below as Exhibit A. This creates a serveless web application. In this case, a resume was created. The logic and diagram is above. You can view my resume at https://resumeforhuey.click Exhibit A
+
+
+
+![298468698-4e6145f1-c16c-4021-9818-ba2e3df77f9f](https://github.com/user-attachments/assets/7d870d3f-704d-4de9-981d-daf7e33c6278)
